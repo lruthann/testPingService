@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "WorkerPingService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development",
+        "api_id": "25164224",
+        "api_hash": "5bb808c3c97b1aa355567e160d23d368",
+        "phone_number": "+79872904446",
+        "verification_code": "28786",
+        "password": "Werthrf321"
+      }
+    }
+  }
+}
